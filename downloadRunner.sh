@@ -1,0 +1,1 @@
+curl -L -o actions-runner-linux-x64-2.322.0.tar.gz https://github.com/actions/runner/releases/download/v2.322.0/actions-runner-linux-x64-2.322.0.tar.gz
